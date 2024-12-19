@@ -1,0 +1,35 @@
+/* ---------------- Developer Name:- Hitesh Kumar Nandwani 
+                   index.css :-  Index CSS in PHP                  ---------*/
+
+img {
+  -webkit-user-drag: none;
+  pointer-events: none;
+}
+
+#carouselExampleFade {
+  padding-top: 10px;
+}
+#image {
+  height: 40px;
+  display: inline;
+  padding-bottom: 5px;
+}
+#cards {
+  padding: 10px;
+}
+#icon {
+  height: 32px;
+  width: 32px;
+}
+#product {
+  padding-right: 50px;
+}
+#border {
+  border: green;
+}
+#heading {
+  padding: 10px;
+}
+#offers {
+  padding: 40px;
+}
